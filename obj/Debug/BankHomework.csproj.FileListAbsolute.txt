@@ -1,0 +1,11 @@
+D:\Dropbox\CSharp_Cource - Short\Lesson_17\Lesson_17_SourceCode\BankHomework\bin\Debug\BankHomework.exe.config
+D:\Dropbox\CSharp_Cource - Short\Lesson_17\Lesson_17_SourceCode\BankHomework\bin\Debug\BankHomework.exe
+D:\Dropbox\CSharp_Cource - Short\Lesson_17\Lesson_17_SourceCode\BankHomework\bin\Debug\BankHomework.pdb
+D:\Dropbox\CSharp_Cource - Short\Lesson_17\Lesson_17_SourceCode\BankHomework\obj\Debug\BankHomework.exe
+D:\Dropbox\CSharp_Cource - Short\Lesson_17\Lesson_17_SourceCode\BankHomework\obj\Debug\BankHomework.pdb
+E:\Dropbox\CSharp_Cource - Short\Lesson_17\Lesson_17_SourceCode\BankHomework\bin\Debug\BankHomework.exe.config
+E:\Dropbox\CSharp_Cource - Short\Lesson_17\Lesson_17_SourceCode\BankHomework\obj\Debug\BankHomework.exe
+E:\Dropbox\CSharp_Cource - Short\Lesson_17\Lesson_17_SourceCode\BankHomework\obj\Debug\BankHomework.pdb
+E:\Dropbox\CSharp_Cource - Short\Lesson_17\Lesson_17_SourceCode\BankHomework\bin\Debug\BankHomework.exe
+E:\Dropbox\CSharp_Cource - Short\Lesson_17\Lesson_17_SourceCode\BankHomework\bin\Debug\BankHomework.pdb
+E:\Dropbox\CSharp_Cource - Short\Lesson_17\Lesson_17_SourceCode\BankHomework\obj\Debug\BankHomework.csprojResolveAssemblyReference.cache
